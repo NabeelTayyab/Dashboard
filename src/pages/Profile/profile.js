@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./profile.scss";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import EditProfile from "./editProfile";
+
 
 export class Profile extends Component {
   constructor(props) {
