@@ -56,13 +56,13 @@ class Sidebar extends Component {
                     <FaUserCircle className=' fa-lg mr-3' /> Profile
                   </NavLink>
                 </li>
-                <NavLink
+                {/* <NavLink
                   to={'/table'}
                   className='side-menu'
                   activeClassName='side-menu--active'
                 >
                   <RiAlertLine className=' fa-lg mr-3' /> Table
-                </NavLink>
+                </NavLink> */}
               </li>
               <li>
                 <NavLink
